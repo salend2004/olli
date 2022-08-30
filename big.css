@@ -1,0 +1,35 @@
+body {
+	background: black;
+}
+
+.text {
+	margin-top: 100px;
+	margin-left: 98px;
+	margin-bottom: -100px;
+}
+
+.nm {
+	font-size: 17px;
+	line-height: 25px;
+}
+
+.bide {
+	font-family: Arial, sans-serif;
+}
+
+.nime {
+	margin-left: 350px;
+	margin-top: -120px;
+	margin-bottom: 50px;
+}
+
+.nmm {
+	margin-left: 150px;
+}
+
+.ine {
+    background-color: white;
+    margin-left: 300px;
+    margin-top: 300px;
+    margin-right: 300px;
+}
